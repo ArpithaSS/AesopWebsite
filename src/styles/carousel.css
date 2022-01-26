@@ -1,0 +1,32 @@
+.carousel__component {
+  position: relative;
+  top: 1300px;
+}
+
+.carousel__text{
+  width: 30%;
+  margin-left: 70px;
+}
+
+.carousel {
+  display: flex;
+  width: 60%;
+  float: right;
+}
+
+.car__button {
+  border-radius: 0;
+  width: 300px;
+  margin-top: 20px;
+}
+
+.car__button > p{
+  padding: 10px 20px 0px 0px;
+  font-size: 15px;
+  float: left;
+}
+
+.car__arrow {
+  margin-top: 10px;
+  float: right;
+}
